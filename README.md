@@ -3,7 +3,7 @@
 <h2> Basic Idea behind this project:</h2>
 We propose a food image recognition system with convolutional neural networks(CNN), which has been applied to image recognition successfully in the literature. The system uses image processing and computational intelligence for food item recognition. A large, deep convolutional neural network is trained to classify more than a 1000 high-resolution images of each category.
 
-<B> Process to execute: </B>
+<h2><B> Process to execute: </B></h2>
 
 - Upload the .ipynb file on Google Colab.
 - Run the first cell, and authorize the good drive the kaggle folder.
