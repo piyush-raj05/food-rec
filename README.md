@@ -14,8 +14,8 @@ We propose a food image recognition system with convolutional neural networks(CN
 
 
 
-<B> ATTENTION!: Careful with the format of the photo, if its in .jpg format, check the function plot_pred_final(image_path_custom) [3rd last code section] 
-            else if the image is in .jpeg format, do edit accordingly: </B>
+<h1><p font color="red"><B> ATTENTION!: Careful with the format of the photo, if its in .jpg format, check the function plot_pred_final(image_path_custom) [3rd last code section] 
+            else if the image is in .jpeg format, do edit accordingly: </B> </b></P></h1>
             ![attention](https://user-images.githubusercontent.com/60137554/122555102-79418000-d057-11eb-8a37-485d7cbcd60b.PNG)
 
 
